@@ -1,8 +1,9 @@
 /*
 File: hw01.cpp
 Author: Malani Snowden
-Purpose: Reverse and decrypt text in a file that has been encrypted by a caesar cypher
-         based on the rotation distance (encryption key) in the first line of the file
+Purpose: Reverse and decrypt text in a file encrypted by a caesar cypher
+         based on the rotation distance (encryption key) in the first line
+         of the file.
 */
 
 //
