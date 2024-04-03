@@ -132,7 +132,7 @@ int main() {
     cout << "RemoveStudent FritzTheCat\n";
     registrar.removeStudent("FritzTheCat");
     cout << registrar << endl;  
-
+    //
 
 
     cout << "Purge for start of next semester\n";
